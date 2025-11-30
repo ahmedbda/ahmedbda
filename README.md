@@ -3,4 +3,4 @@
 * [NASA Turbofan Engine RUL prediction model](https://github.com/ahmedbda/nasa-turbofan-rul-ml) (machine learning)
 * [Web gradient picker](https://github.com/ahmedbda/web-gradient-picker) (web development)
 
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbda&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbda&layout=compact)
+[![]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafuka11&theme=solarized](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={ahmedbda}&theme={transparent}&exclude={exclude}))]([https://github.com/vn7n24fzkq/github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={ahmedbda}&theme={transparent}&exclude={exclude}))
