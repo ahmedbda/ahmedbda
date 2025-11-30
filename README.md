@@ -1,6 +1,4 @@
 ### Projects
-* [Sys telemetry CLI](https://github.com/ahmedbda/sys-telemetry-cli) (cybersecurity)
-* [NASA Turbofan Engine RUL prediction model](https://github.com/ahmedbda/nasa-turbofan-rul-ml) (machine learning)
-* [Web gradient picker](https://github.com/ahmedbda/web-gradient-picker) (web development)
-
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+* Sys telemetry CLI (cybersecurity) [here](https://github.com/ahmedbda/sys-telemetry-cli)
+* NASA Turbofan Engine RUL prediction model (machine learning) [here](https://github.com/ahmedbda/nasa-turbofan-rul-ml)
+* Web gradient picker (web development) [here](https://github.com/ahmedbda/web-gradient-picker)
