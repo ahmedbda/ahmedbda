@@ -1,4 +1,4 @@
-Inactive during exam period
+Inactive during exam period  
 My site [ahmedbda.com](https://ahmedbda.com/)  
 
 **Projects**
