@@ -1,5 +1,4 @@
-Inactive during exam period  
-My site [ahmedbda.com](https://ahmedbda.com/)  
+[ahmedbda.com](https://ahmedbda.com/)  
 
 **Projects**
 * System telemetry command line interface [sys-telemetry-cli](https://github.com/ahmedbda/sys-telemetry-cli)
