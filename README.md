@@ -6,5 +6,5 @@
 * NASA turbofan engine RUL prediction model [nasa-turbofan-rul-ml](https://github.com/ahmedbda/nasa-turbofan-rul-ml)
 * Web gradient picker [web-gradient-picker](https://github.com/ahmedbda/web-gradient-picker)
 
-**Resources ([ahmedbda.com/resources](https://www.ahmedbda.com/resources/))**
+**Resources** (all [here](https://www.ahmedbda.com/resources/))
 * Encoding, Encryption & Hashing: differences between the three and why it matters
