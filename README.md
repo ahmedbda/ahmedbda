@@ -1,6 +1,6 @@
 https://ahmedbda.com
 
-Inactivity periods can be explained by exam periods and side projects, currently working on a blog and CTFs
+Inactivity periods can be explained by exam periods and side projects
 
 **Projects**
 * URL link security scanner [url-scanner](https://github.com/ahmedbda/url-scanner) *(work in progress)*
